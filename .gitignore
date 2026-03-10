@@ -27,6 +27,9 @@ wheels/
 node_modules/
 frontend/node_modules/
 
+# macOS
+.DS_Store
+
 # IDEs
 .vscode/
 .idea/
